@@ -3,7 +3,7 @@ Metaartisan
 Apple DEVELOPER since 1986 
   IOS/MacOS
   
-  16+ yrs and 40+ IOS apps, 10 yrs swift/Obj-C/C++, 25 yrs xcode;
+  16+ yrs and 40+ IOS apps, 10 yrs swift/Obj-C/C++/JS, 25 yrs xcode;
   **Claude code, GPT expert**: jockeing 6 projects/sessions currently.
   Expert at reviewing AI code changes (* See below).
 
