@@ -7,8 +7,9 @@ Apple developer since 1986
   **Claude code expert**: jockeing 6 projects/sessions currently.
 
   Expertise:
+  
    🔶 IOS
-     16+ yrs and 40+ IOS apps,
+     16+ yrs and 40+ IOS apps, swift 6
      
    🔶 Macos, since 1986
      WindowBorders, OnWakeup, MyMarquee
