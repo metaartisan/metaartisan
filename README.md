@@ -3,7 +3,7 @@ Metaartisan
 Apple developer since 1986 
   IOS/MacOS
   
-  16+ yrs and 40+ IOS apps, 10 yrs swift, 25 yrs xcode
+  16+ yrs and 40+ IOS apps, 10 yrs swift, 25 yrs xcode;
   **Claude code expert**: jockeing 6 projects/sessions currently.
 
   Expertise:
