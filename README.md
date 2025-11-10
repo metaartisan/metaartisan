@@ -14,7 +14,7 @@ Apple DEVELOPER since 1986
    🔶 Macos, since 1986
      WindowBorders, OnWakeup, MyMarquee
      
-   🔶 Chrome extensions
+   🔶 Chrome extensions: 
      CitatonToool, ContactTool, JIT Hinters
      tech magic: Very Deep Links (VDL)
      VDL allow seeing citations and referenced material in context!
