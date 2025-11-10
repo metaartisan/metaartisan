@@ -12,11 +12,11 @@ Apple DEVELOPER since 1986
    🔶 IOS
      16+ yrs and 40+ IOS apps, swift 6
      
-   🔶 Macos, since 1986
-     WindowBorders, OnWakeup, MyMarquee
+   🔶 Macos, since 1986.
+     Apps: WindowBorders, OnWakeup, MyMarquee
      
    🔶 Chrome extensions: 
-     CitatonToool, ContactTool, JIT Hinters.
+     Apps: CitatonToool, ContactTool, JIT Hinters.
      tech magic: Very-Deep-Links (VDL).
      VDL allow seeing citations and referenced material in context!
      
