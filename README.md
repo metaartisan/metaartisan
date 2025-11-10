@@ -1,6 +1,6 @@
 Metaartisan
 
-Apple developer since 1986 
+Apple DEVELOPER since 1986 
   IOS/MacOS
   
   16+ yrs and 40+ IOS apps, 10 yrs swift, 25 yrs xcode;
