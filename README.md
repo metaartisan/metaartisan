@@ -33,6 +33,7 @@ Apple DEVELOPER since 1986
   Chatgpt Altas, is my power tool of the week.
   
   www.metatheory.com
+  
   Hobby: GoStones.com
 
   Reachme at: CleverBoy@metatheory.com
