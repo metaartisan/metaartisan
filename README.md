@@ -1,7 +1,5 @@
-## A second-level heading
 Metaartisan
 
-## A third-level heading
 Apple developer since 1986 
   IOS/MacOS
   
@@ -11,8 +9,10 @@ Apple developer since 1986
   Expertise:
    🔶 IOS
      16+ yrs and 40+ IOS apps,
-   🔶 Macos
+     
+   🔶 Macos, since 1986
      WindowBorders, OnWakeup, MyMarquee
+     
    🔶 Chrome extensions
      CitatonToool, ContactTool, JIT Hinters
      tech magic: Very Deep Links (VDL)
@@ -21,7 +21,6 @@ Apple developer since 1986
   www.metatheory.com
   Hobby: GoStones.com
 
-## A third-level heading
   Secret weapon: 
     I date **STAMP** all my changes and have Claude do the same!
     I can made sense of Claude conversations as they scroll by quickly.
