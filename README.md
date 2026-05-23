@@ -11,7 +11,7 @@ Apple DEVELOPER since 1986
   Expertise:
   
    🔶 IOS
-     16+ yrs and 40+ IOS apps, swift 6
+    18 yrs and 40+ IOS apps, 10 yrs swift
      
    🔶 Macos, since 1986; 
      Apps: WindowBorders, OnWakeup, MyMarquee
