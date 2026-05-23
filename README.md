@@ -19,7 +19,7 @@ Apple DEVELOPER since 1986
    🔶 Chrome extensions: 
      Apps: CitatonToool, ContactTool, JIT Hinters.
      tech magic: Very-Deep-Links (VDL).
-     VDL allow seeing citations and referenced material in context!
+     VDL allow seeing citations and referenced material in sourced context!
      
   * Secret weapon: 
     I **date-STAMP** all my changes and have Claude/Codex do the same!   // AI 26.05.23 #changeNumber, (context)
